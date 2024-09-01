@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Kwshal, 19;
 - 👀 Interested in Website Development;
-- 🌱 Currently learning SQL && DBs;
-- 💞️ I’m eager to collaborate on projests where I can learn more about web servers && databases;
+- 🌱 recently learnt about Google Firebase;
+- 💞️ I’m eager to collaborate on projests where I can learn more about web development databases;
 - 📫 You can contact me on : Whatsapp = 9891835752 || Instagram = o_0psycho;
-- 😄 Pronouns: He/Him;
+- 😄 Pronouns: He || Him;
 - ⚡ Fun fact: null;
 
 <!---
